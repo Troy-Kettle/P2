@@ -86,5 +86,6 @@ public class Practical1 extends JFrame{
 
     public static void main(String[] args) {
         new Practical1();
+        System.out.println("Hello world");
     }
 }
